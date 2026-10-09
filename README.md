@@ -214,7 +214,7 @@ Planejado: testes unitários das regras de negócio (JUnit 5 + Mockito) e testes
 ## Autor
 
 **Allan Henrique Passos Lima**
-Estudante de Ciência da Computação (Universidade Tiradentes), em busca de estágio em desenvolvimento back-end e full-stack.
+Estudante de Ciência da Computação (Universidade Tiradentes).
 
 - GitHub: [AllanPassos1mt](https://github.com/AllanPassos1mt)
 - LinkedIn: [allan-passos](https://www.linkedin.com/in/allan-passos)
